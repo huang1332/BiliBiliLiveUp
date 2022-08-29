@@ -1,0 +1,2 @@
+# BiliBiliLiveUp
+哔哩哔哩直播录制,基于B站录播姬和biliup-rs的全自动录播、投稿工具,只需直播间地址即可自动录制上传,自动从直播间获取封面，支持rclone上传至onedrive
